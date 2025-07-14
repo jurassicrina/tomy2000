@@ -1,0 +1,1 @@
+#Restart or self-repair logic if a component fails
