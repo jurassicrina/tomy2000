@@ -1,0 +1,1 @@
+#ultrasonic sensor array: measures distance using ultrasonic waves

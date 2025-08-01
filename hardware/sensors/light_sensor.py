@@ -1,0 +1,1 @@
+#infrared sensor: detects obstacles and measures distance

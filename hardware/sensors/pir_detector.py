@@ -1,0 +1,1 @@
+#pyroelectric infrared (PIR) sensor: detects motion by sensing changes in infrared radiation
